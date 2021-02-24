@@ -1,0 +1,33 @@
+h1 {
+  color: red;
+  display: flex;
+}
+h2 {
+  color: orange;
+  display: flex;
+}
+p {
+  color: brown;
+  display: flex;
+}
+* {
+  border: solid;
+}
+.header {
+  background-color: teal;
+  display: flex;
+  justify-content: space-between;
+}
+.menu {
+  background-color: green;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.footer {
+  display: flex;
+
+  justify-content: flex-end;
+}
